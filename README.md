@@ -29,7 +29,7 @@
   This controls what shows up in the spell description on your interface, even when we manipulate which spell will be cast later in the code. Without this, it will simply show the name of the macro. It's not entirely required, but it looks much nicer. Plus it allows us to visibly double-check that we are casting different spells.
  
           /cast
-  This tells the macro what action to take. Every time you normally cast a spell in the game, it is effectively doing the command "/cast [spell name]<spell rank>". We're going to use that same method to build this macro.
+  This tells the macro what action to take. Every time you normally cast a spell in the game, it is effectively doing the command "/cast Spell Name(optional spell rank)". We're going to use that same method to build this macro.
  
         [@mouseover,harm,nodead]
   It's important to note that we put this mouseover command FIRST. The reasoning for this priority will be clear later, but for now just know it needs to be the first one! 
