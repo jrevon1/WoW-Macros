@@ -57,12 +57,13 @@
   Same as before, if there's a mouseover friendly target with at least 1 health point. This is the default "friendly" action of the macro if the user is not pressing the key defined as "mod" earlier.
  
  11. 
-       [@target,help, nodead]
+        [@target,help, nodead]
   Same as before, if there's a selected friendly target with at least 1 health point. This is the default "friendly" action of the macro if the user is not pressing the key defined as "mod" earlier.
  
  12. 
-       [@player]
+        [@player]
   Same as before, self-cast this spell if you neither have a mouseover target, nor have a selected target. Remember: you are always "friendly" to yourself.
  
- 13. Heal(rank 4)
+ 13. 
+        Heal(rank 4)
   The spell being cast by the previous three statements. This is the default friendly action of the macro if the user is not pressing the key defined as "mod" earlier.
