@@ -8,11 +8,11 @@
 
   Due to the nature of the game's mechanics, there are times when I, as a player, need to "downrank", or cast a spell with a lower resource cost than that of my best spells. Normally, this would mean I'd need to keep multiple copies, or "ranks", of the same spell on my screen just for this purpose, which would take up way too much space and clutter my game interface.
 
-  Instead, I use a macro to allow me to toggle between larger- and smaller -resource-cost spells with the same button, effectively replacing multiple buttons with a single button. It also allows them the option to use an additional, separate spell to deal damage when they don't need to heal, freeing up even more space.
+  Instead, I use a macro to allow me to toggle between larger- and smaller -resource-cost spells with the same button, effectively replacing multiple buttons with a single button. It also allows the option to use an additional, separate spell to deal damage to enemies when they don't need to heal, freeing up even more space.
 
-  Finally, it also prioritizes the right spell based on whether your mouse is hovering over a friendly or enemy target, or even yourself.
+  Finally, it also prioritizes the spell based on whether your mouse is hovering over a friendly or enemy target, or even yourself.
   
-  I made this macro because I had been unable to find anything like it in my searching. There are addons that can do some of the same functions, but they're either overly complicated to setup or too cumbersome for what I need. This macro is easy to understand, and can be adapted not only for priests, but any of the other classes in the game.
+  I made this macro over the course of a few months because I had been unable to find anything like it. Despite World of Warcraft originally releasing nearly 16 years ago, there is a surprising lack of documentation for macros. I was able to cobble together enough information from various sources, forum posts, and wikis to develop this, and have laid out what I've learned all in one place at the [bottom](#breaking-down-the-code). While there are some addons that can do some of the same functions, personally I found they're either overly complicated to setup or too cumbersome for what I need. This macro is easy to understand, and can quickly be adapted not only for priests, but any of the other classes in the game.
   
 ## How to use
   Simply paste the code of the [All-In-One](https://github.com/jrevon1/WoW-Macros/blob/main/All-In-One.lua) macro into a new macro. Make sure not to create any erroneous spaces!
