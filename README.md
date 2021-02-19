@@ -15,11 +15,11 @@
   I made this macro over the course of a few months because I had been unable to find anything like it. Despite World of Warcraft originally releasing nearly 16 years ago, there is a surprising lack of documentation for macros. I was able to cobble together enough information from various sources, forum posts, and wikis to develop this, and have laid out what I've learned all in one place at the [bottom](#breaking-down-the-code). While there are some addons that can do some of the same functions, personally I found they're either overly complicated to setup or too cumbersome for what I need. This macro is easy to understand, and can quickly be adapted not only for priests, but any of the other classes in the game.
   
 ## How to use
-  Simply paste the code of the [All-In-One](https://github.com/jrevon1/WoW-Macros/blob/main/All-In-One.lua) macro into a new macro. Make sure not to create any erroneous spaces!
+  Simply paste the code of the [All-In-One](https://github.com/jrevon1/WoW-Macros/blob/main/All-In-One.lua) macro into a new macro in-game. Make sure not to create any extra spaces by accident! I personally like to use the icon of the spell itself, for example the "Heal" icon for my "Heal" downrank, the "Greater Heal" icon for my "Greater Heal" downranks, etc.
   
   You can manually highlight and re-type the spell names as needed, or you can directly import the specific name and rank by opening your spellbook, and shift-clicking the spell itself into the macro.
 
-  Drag that new macro to your actionbar and enjoy!
+  Drag that new macro icon to your actionbar and enjoy!
 
 ## Breaking down the code
 
