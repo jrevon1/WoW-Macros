@@ -1,6 +1,6 @@
 # What is this?
 
-  A macro for World of Warcraft Classic for all-in-one damage and healing, with mouseover and target priority, and downranking using a preferred toggle key.
+  A macro for World of Warcraft Classic for all-in-one damage and healing, with mouseover and target priority, and downranking using a preferred toggle key. These are partly notes to myself, and partly a place to store this macro between devices, and it even works when addons would normally need to be updated.
 
 # Wait, what? Why?
 
